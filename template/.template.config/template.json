@@ -1,0 +1,22 @@
+{
+  "author": "MyJetEducation",
+  "classifications": [ "MyJetEducationTutorialApiService" ],
+  "name": "MyJetEducationTutorialApiService",
+  "identity": "MyJetEducationTutorialApiService",
+  "shortName": "myjeteducationtutorialapiservice",
+  "preferNameDirectory": "true",
+  "tags": {
+    "language": "C#"
+  },
+  "sourceName": "EducationBehavioralApi",
+  "symbols": {
+    "clientSecretsId": {
+      "type": "generated",
+      "generator": "guid",
+      "replaces": "user-secrets-id",
+      "parameters": {
+        "format":"N"
+      }
+    }
+  }
+}
